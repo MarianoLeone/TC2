@@ -1,4 +1,4 @@
-%
+% A
 % Verificación de la EDO 
 % Condic iniciales nulas.
 clear all;clc;close all;
