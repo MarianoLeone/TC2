@@ -1,4 +1,5 @@
-% Verificación de la EDO 
+%
+% VerificaciÃ³n de la EDO 
 % Condic iniciales nulas.
 clear all;clc;close all;
 % pkg load control;
